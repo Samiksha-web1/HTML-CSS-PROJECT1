@@ -1,0 +1,20 @@
+div{
+    padding: 10px;
+  }
+  .input{
+    padding: 10px;
+  }
+  button{
+    margin-left: 50px;
+    background-color: green;
+  }
+  .clear{
+    background-color: blue;
+  }
+  .info{
+    background-color: skyblue;
+  }
+  .about{
+    text-align: center;
+    text-decoration: underline;
+  }
